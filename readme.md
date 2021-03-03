@@ -2,9 +2,9 @@
 # Chào mừng bạn đến với MeTik Việt nam
 
 MeTik là một mạng xã hội được thành lập bởi x thành viên với mục đích tạo ra....
-+ https://www.facebook.com/profile.php?id=100010177472839
-+ https://www.facebook.com/epitchi
-+ https://www.facebook.com/profile.php?id=100008137956336
++ Founder Lê Duy Cường: https://www.facebook.com/profile.php?id=100010177472839
++ Co-Founder Lê Văn Thiện: https://www.facebook.com/epitchi
++ Co-Founder Lê Hoàng Long: https://www.facebook.com/profile.php?id=100008137956336
 <!-- 
 
 ## Web và app cho Android & IOS
