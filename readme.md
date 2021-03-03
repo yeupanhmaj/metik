@@ -5,12 +5,12 @@ MeTik là một mạng xã hội được thành lập bởi x thành viên vớ
 + https://www.facebook.com/profile.php?id=100010177472839
 + https://www.facebook.com/epitchi
 + https://www.facebook.com/profile.php?id=100008137956336
+<!-- 
 
 ## Web và app cho Android & IOS
 <img src="https://kb2ateam.com/public/img/2799931.svg" width=200 />
 Thời kì hội nhập việc có một website hay app điện thoại cho doanh nghiệp của mình là một điều không thể thiếu.
-
-<!-- ## Design
+## Design
 <img src="https://kb2ateam.com/public/img/3036268.svg" width=200 />
 Bạn cần thiết kế ảnh hay logo cho mình?<br>
 Hãy liên hệ với chúng tôi ngay nhé.
